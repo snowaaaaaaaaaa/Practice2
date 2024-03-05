@@ -1,6 +1,9 @@
 # Practice2, Variant 5
 # Dvorovenko Max
 
+![photo_2024-03-05_22-05-16](https://github.com/snowaaaaaaaaaa/Practice2/assets/144525592/7d0b6ca2-2dea-4d6b-997e-957e63778f3c)
+
+
 ![photo_2024-03-05_18-26-26](https://github.com/snowaaaaaaaaaa/Practice2/assets/144525592/7d2152d2-808c-43bc-9235-a54265a60e8e)
 
 ```
